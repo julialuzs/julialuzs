@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a 22 year old software developer currently working with React.js, Angular and .NET (: 
 <!--
 **julialuzs/julialuzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
